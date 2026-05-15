@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: hotpink;
+  font-family: 'FunnyType';
+  
+  @font-face {
+  font-family: 'FunnyType';
+  src: url('https://github.com/curiositydanube/danube/raw/refs/heads/main/fonts/funnytype.ttf') format('ttf'),
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; 
+  font-family: 'FunnyType';
+}

@@ -1,13 +1,13 @@
 body {
   background-color: black;
   color: hotpink;
-  font-family: 'FunnyType';
+  font-family: 'Comic Relief';
   
   @font-face {
-  font-family: 'FunnyType';
-  src: url('fonts/funnytype.ttf') format('truetype'),
-  font-weight: normal;
-  font-style: normal;
+  font-family: 'Comic Relief';
+  src: url('fonts/ComicRelief-Bold.ttf') format('truetype'),
+  font-weight: bold;
+  font-style: bold;
   font-display: swap; 
-  font-family: 'FunnyType';
+  font-family: 'Comic Relief';
 }

@@ -3,11 +3,11 @@ body {
   color: hotpink;
   font-family: 'Comic Relief';
   
-  @font-face {
+  @font-face :
   font-family: 'Comic Relief';
-  src: url('fonts/ComicRelief-Bold.ttf') format('truetype'),
-  font-weight: bold;
-  font-style: bold;
+  src: url('fonts/ComicRelief-Regular.ttf') format('truetype'),url('fonts/ComicRelief-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
   font-display: swap; 
   font-family: 'Comic Relief';
 }
